@@ -13,7 +13,7 @@ NieRCloud 主要面向需要网络加速服务的个人用户，包括海外内�
 
 官方注册入口：
 
-[NieRCloud官网注册入口](https://board.cloudnier.com/#/register?code=d8G6yPJI)
+[NieRCloud官网注册入口](https://a.wwaann.com/?s=niercloud)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
@@ -324,7 +324,7 @@ NieRCloud 使用教程基础流程如下：
 
 NieRCloud 注册入口：
 
-[NieRCloud官方注册入口](https://board.cloudnier.com/#/register?code=d8G6yPJI)
+[NieRCloud官方注册入口](https://a.wwaann.com/?s=niercloud)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
